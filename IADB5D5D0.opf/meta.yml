@@ -1,0 +1,26 @@
+id: IADB5D5D0
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T23:15:11.243217'
+last_modified: '2022-05-30T23:15:11.243230'
+parser: null
+source_metadata:
+  title: Shikpo Lingpa Series
+  language: en
+  description: 'Texts by the treasure revealer Shikpo Lingpa Gargyi Wangchuk Tsal
+    (zhig po gling pa gar gyi dbang phyug rtsal, 1524–1583):'
+  volume:
+    f99F0:
+      title: 'The Sādhana of the Five Self-Arisen Noble Brothers: An Instruction in
+        the Union of Generation and Completion'
+      base_file: f99F0.txt
+      order: 1
+      parent: Sādhanas
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
